@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "天泣",
+  "base_artist": "稲葉曇",
+  "createdAt": "2025-12-11T09:41:08.498445Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "天泣",
+      "artist": "稲葉曇",
+      "has_synced": false,
+      "path": "select/01_天泣_稲葉曇.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "天泣 (Tenkyu)",
+      "artist": "稲葉曇",
+      "has_synced": true,
+      "path": "select/02_天泣_(Tenkyu)_稲葉曇.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "天泣",
+      "artist": "稲葉曇",
+      "has_synced": true,
+      "path": "select/03_天泣_稲葉曇.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "天泣",
+      "artist": "稲葉曇",
+      "has_synced": true,
+      "path": "select/04_天泣_稲葉曇.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "天泣",
+      "artist": "稲葉曇 feat. 歌愛ユキ",
+      "has_synced": true,
+      "path": "select/05_天泣_稲葉曇_feat._歌愛ユキ.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "天泣",
+      "artist": "稲葉曇",
+      "has_synced": false,
+      "path": "select/pl_01_天泣_稲葉曇.txt"
+    }
+  ]
+}
